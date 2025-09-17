@@ -2,13 +2,10 @@
 
 ThinkDock is a mini AI toolkit that brings together quick, practical AI-powered tools in one clean dashboard.
 
-Originally started as an ambitious EdTech project (LecturaX), it was left midway — but has now been revamped into a smaller, functional side project perfect for learning, experimenting, and showcasing full-stack skills.
-
 The goal?
 Make AI utilities accessible, minimal, and actually useful without the complexity of a giant platform.
-🚀 Live Demo
 
-### **➡️ Try [ThinkDock](https://thinkdock.vercel.app/)**
+### 🚀 Live Demo: **➡️ Try [ThinkDock](https://thinkdock.vercel.app/)**
 
 ## 📦 Features
 
