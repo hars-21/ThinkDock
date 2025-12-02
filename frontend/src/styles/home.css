@@ -472,10 +472,6 @@
     padding: calc(var(--nav-height) + 2rem) var(--page-padding) var(--page-padding);
   }
 
-  .hero-head {
-    font-size: clamp(2.5rem, 10vw, 4rem);
-  }
-
   .hero-stats {
     grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   }
@@ -510,6 +506,15 @@
 
   .testimonial-card {
     min-width: 240px;
+  }
+
+  .feature-about {
+    align-items: center;
+  }
+
+  .hero-pill {
+    font-size: 0.5rem;
+    padding: 0.3rem 0.75rem;
   }
 }
 

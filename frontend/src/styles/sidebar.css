@@ -200,17 +200,6 @@
     opacity: 0.15;
 }
 
-.nav-link:hover {
-    color: white;
-    transform: translateX(4px);
-}
-
-.nav-link.active {
-    color: white;
-    background: rgba(251, 162, 2, 0.1);
-    border: 1px solid rgba(251, 162, 2, 0.2);
-}
-
 .nav-icon {
     font-size: 1.1rem;
     display: flex;

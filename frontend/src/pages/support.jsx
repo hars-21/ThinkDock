@@ -129,9 +129,6 @@ const Support = () => {
   return (
     <div className="support-container">
       <div className="grid-overlay" aria-hidden="true"></div>
-      <div className="glow-spark support-spark-one" aria-hidden="true"></div>
-      <div className="glow-spark support-spark-two" aria-hidden="true"></div>
-
       <motion.section
         className="support-hero"
         variants={fadeInUp}
@@ -154,7 +151,7 @@ const Support = () => {
             href="https://discord.com/invite/thinkdock"
             target="_blank"
             rel="noopener noreferrer"
-            className="ghost-btn"
+            className="animated-btn"
           >
             Join the community
           </a>

@@ -106,7 +106,7 @@ const About = () => {
           <Link to="/dashboard" className="animated-btn" aria-label="Open the ThinkDock dashboard">
             Launch dashboard
           </Link>
-          <Link to="/support" className="ghost-btn">
+          <Link to="/support" className="animated-btn" aria-label="Visit support page">
             Visit support
           </Link>
         </div>
@@ -198,7 +198,7 @@ const About = () => {
         whileInView="visible"
         viewport={{ once: true, amount: 0.3 }}
       >
-        <span className="pill">Maker</span>
+        <span className="pill">Developer</span>
         <div className="developer-header">
           <img src={avatar} alt="Harshil Gupta" className="developer-image" />
           <div className="developer-info">

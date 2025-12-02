@@ -111,10 +111,10 @@ const Home = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, delay: 0.5 }}
           >
-            <Link to="/dashboard" className="animated-btn">
+            <Link to="/dashboard" className="animated-btn" aria-label="Get Started">
               Get Started <FaArrowRightLong />
             </Link>
-            <a href="#features" className="ghost-btn" aria-label="See ThinkDock tools">
+            <a href="#features" className="animated-btn" aria-label="See ThinkDock tools">
               View tools
             </a>
           </motion.div>
